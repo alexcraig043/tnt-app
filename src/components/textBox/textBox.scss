@@ -1,0 +1,12 @@
+.textBox {
+  margin: 20px 100px;
+  border-radius: 10px;
+  background-color: white;
+  border: 1px solid rgb(240, 240, 240);
+
+  .container {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+  }
+}

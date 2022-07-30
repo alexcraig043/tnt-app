@@ -1,0 +1,27 @@
+.research {
+  .researchContainer {
+    padding: 0px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .title {
+      color: black;
+      font-size: 24px;
+      font-weight: bold;
+    }
+    .items {
+      .item {
+        padding: 20px 0px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        .header {
+          font-size: 18px;
+          font-weight: 700;
+        }
+        .text {
+        }
+      }
+    }
+  }
+}

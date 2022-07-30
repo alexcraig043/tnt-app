@@ -1,0 +1,18 @@
+.title {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  gap: 30px;
+
+  .main {
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .sub {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+  }
+}
