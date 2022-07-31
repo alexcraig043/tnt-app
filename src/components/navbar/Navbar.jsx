@@ -11,7 +11,9 @@ const Navbar = () => {
     <div className="navbar">
       <div className="wrapper">
         <Link to="/" style={{ textDecoration: "none" }}>
-          <div className="title">Tiburones n Tortugas</div>
+          <a href="#" className="title">
+            Tiburones n Tortugas
+          </a>
         </Link>
         <div className="items">
           <div className="item">
