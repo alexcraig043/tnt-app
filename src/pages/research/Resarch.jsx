@@ -10,7 +10,10 @@ const Resarch = () => {
         pageCount={1.5}
         content={
           <div className="researchContainer">
-            <div className="title">Show your support for TnT!</div>
+            <div className="header">
+              <h1>Get Involved</h1>
+              <h2>Show Your Support for TnT</h2>
+            </div>
             <div className="items">
               <div className="item">
                 <div className="header">Internships</div>

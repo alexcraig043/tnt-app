@@ -5,6 +5,7 @@ const TextBox = ({ content }) => {
     <div className="textBox">
       <div className="container">{content}</div>
     </div>
+   
   );
 };
 

@@ -1,4 +1,5 @@
 import "./title.scss";
+import finalFlower from "../../assets/images/finalFlower.jpeg";
 
 const Title = ({ main, sub }) => {
   return (
