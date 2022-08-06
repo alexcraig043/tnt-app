@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ad18f72a.css",
+    "main.js": "/static/js/main.a2676df1.js",
+    "static/media/turtle1.jpeg": "/static/media/turtle1.9ba802b3da8ec2558089.jpeg",
+    "static/media/turtle2.jpeg": "/static/media/turtle2.ae05b79cecd98aa2638f.jpeg",
+    "static/media/turtle0.jpg": "/static/media/turtle0.1248026066f481203b27.jpg",
+    "static/media/flowerpattern.jpeg": "/static/media/flowerpattern.4c7180968f77a40ecd9c.jpeg",
+    "static/media/sam.jpeg": "/static/media/sam.ba5f29716c3543253786.jpeg",
+    "static/media/daniel.jpeg": "/static/media/daniel.ebc99506684ac351edae.jpeg",
+    "static/media/randall.jpeg": "/static/media/randall.7b0dcbaf94040563ef75.jpeg",
+    "static/media/finalFlower.jpeg": "/static/media/finalFlower.3bdeea79e3bdf3d77178.jpeg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.ad18f72a.css",
+    "static/js/main.a2676df1.js"
+  ]
+}
